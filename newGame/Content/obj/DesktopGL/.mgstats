@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/backMenu.jpg","C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/bin/DesktopGL/backMenu.xnb","TextureProcessor","Texture2DContent",1092488,14745685,0,9796486
+"C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/Bomb.png","C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/bin/DesktopGL/Bomb.xnb","TextureProcessor","Texture2DContent",3070,18985,0,0116917
+"C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/Coin.jpg","C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/bin/DesktopGL/Coin.xnb","TextureProcessor","Texture2DContent",7861,63573,0,0126924
+"C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/Font.spritefont","C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/bin/DesktopGL/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,2515575
+"C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/MainHero.png","C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/bin/DesktopGL/MainHero.xnb","TextureProcessor","Texture2DContent",535,27965,0,0458046
+"C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/MainMenuButton.png","C:/Users/79024/Desktop/Im/Ulearn/newGame/newGame/Content/bin/DesktopGL/MainMenuButton.xnb","TextureProcessor","Texture2DContent",456,142225,0,0348255
